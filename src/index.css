@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.completed {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
